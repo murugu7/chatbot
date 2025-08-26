@@ -25,7 +25,7 @@ chatbox-app/
 ## Installation & Usage (Run Locally)
 
 **1. Clone this repository:**
-  
+ 
    git clone https://github.com/murugu7/chatbox-app.git
    cd chatbox-app
 
@@ -60,6 +60,7 @@ Contributions are welcome! Feel free to fork this repo and submit pull requests.
 ## License
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
 
 
 
