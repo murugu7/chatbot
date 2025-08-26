@@ -51,15 +51,16 @@ chatbox-app/
 
 ---
 
-## Contributing
+## Contribution
 
 Contributions are welcome! Feel free to fork this repo and submit pull requests.
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
 
 
 
