@@ -1,6 +1,6 @@
 # Chatbox App
 
-A simple Chatbox application built with [Gradio](https://gradio.app/) and deployed on Hugging Face Spaces.  
+A conversational **Chatbox** application built with [Gradio](https://gradio.app/) and deployed on **Hugging Face Spaces**.  
 This project demonstrates how to create and deploy an interactive chatbot interface easily.
 
 ---
@@ -60,6 +60,7 @@ Contributions are welcome! Feel free to fork this repo and submit pull requests.
 ## License
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
 
 
 
