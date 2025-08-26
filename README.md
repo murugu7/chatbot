@@ -14,9 +14,10 @@ Try it here: [Chatbox on Hugging Face](https://huggingface.co/spaces/TSM7/chatfr
 
 chatbox-app/
 │
-├── app.py # Main application script
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+├── app.py              # Main application script
+├── requirements.txt    # Dependencies
+└── README.md           # Project documentation
+
 
 ---
 
@@ -58,3 +59,4 @@ Contributions are welcome! Feel free to fork this repo and submit pull requests.
 ## 📜 License
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
